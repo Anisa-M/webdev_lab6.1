@@ -1,0 +1,58 @@
+#main-nav{
+  text-decoration: none;
+  <br>position: absolute;
+  <br>top: -34px;
+  <br>right: 10px;
+  <br>color: white;
+  <br>font-size: 1.8em;
+}
+
+#header h1 {
+  position: absolute;
+  <br>left: 420px;
+  <br>top: 5px;
+  <br>font-size: 3em;
+  <br>font-family: 'Devonshire', cursive;
+  <br>color: #E35335;
+}
+
+header {
+  position: relative;
+  <br>margin-top: 40px;
+  <br>border-radius: 12px 12px 0px 0px;
+}
+
+body {
+  background-color: #777;
+  <br>height: 80px;
+  <br>clear: both;
+}
+
+#side-content {
+  list-style-type: none;
+  <br>margin: 0;
+  <br>padding: 0;
+  <br>float: left;
+  <br>position: relative;
+  <br>left: 50%;
+}
+
+body {
+  background-image: url("../images/black.jpg");
+}
+
+.image-r {
+  float: right;
+  <br>border: 2px solid blue;
+  <br>width: 300px;
+  <br>padding: 5px;
+  <br>background-color: white;
+  <br>margin: 10px 0 10px 20px;
+}
+
+#page-wrapper {
+  width: 960px;
+  <br>margin: 0 auto;
+  <br>box-shadow: 0px 4px 8px 2px rgba(0, 0, 0, 1);
+  <br>border-radius: 12px 12px 0px 0px;
+}
